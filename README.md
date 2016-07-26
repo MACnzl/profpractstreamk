@@ -1,4 +1,4 @@
-# profpractstreamk
+# Profesional practise Help file exercise.
 Activity instructions
 
 Find three really good help files or instructions and link to them in your repo. For each one, write a few sentences about why you think it is effective.
