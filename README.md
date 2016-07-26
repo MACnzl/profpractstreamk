@@ -6,10 +6,10 @@ Find one or two help docs or instructions that you think are ineffective or coul
 
 Good examples of software help.
 
-*https://support.office.com/en-us/article/Create-your-first-Word-2013-document-abfe7d91-98e5-422f-9033-6df5f5998b0a
+Item 1 https://support.office.com/en-us/article/Create-your-first-Word-2013-document-abfe7d91-98e5-422f-9033-6df5f5998b0a
 I think the above link is effective as it breaks down the wWord 2013 areas covered so people can choose the most appropriate task they wouldl ike help with or can start at the beginning and work through, or see if the area of help needed is likely to be covered or not. You can follow the instruction yourself using the installed word software and it shows you where to click on the screen.
 
-*https://support.google.com/mail/?hl=en#topic=7065107
+Item 2 https://support.google.com/mail/?hl=en#topic=7065107
 I find the above help information effective. It is efficient, it provides help information for multiple platforms. It breaks areas of help into categories so it is clear when selected by the user if it might provide the support needed.
 
 
